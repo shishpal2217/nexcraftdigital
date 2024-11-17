@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Website Development",
+    "img": "/nex/assets/imgs/serv-icons/4.png",
+    "desc": "Create engaging and responsive websites that enhance user experience and drive conversions. Our custom designs are tailored to reflect your brand identity.",
+    "link": "/service-details"
+  },
+  {
+    "title": "App Development",
+    "img": "/nex/assets/imgs/serv-icons/3.png",
+    "desc": "Build intuitive mobile and web applications that captivate users. We develop solutions that are scalable, secure, and aligned with your business goals.",
+    "link": "/service-details"
+  },
+  {
+    "title": "Software Development",
+    "img": "/nex/assets/imgs/serv-icons/3.png",
+    "desc": "Design and implement bespoke software solutions that address your unique challenges, enhancing efficiency and driving innovation.",
+    "link": "/service-details"
+  },
+  {
+    "title": "CRM Solutions",
+    "img": "/nex/assets/imgs/serv-icons/5.png",
+    "desc": "treamline customer interactions and enhance relationships with tailored CRM software designed for your specific business needs.",
+    "link": "/service-details"
+  },
+  {
+    "title": "SEO & Digital Marketing",
+    "img": "/nex/assets/imgs/serv-icons/4.png",
+    "desc": "Boost your online visibility with targeted SEO and marketing strategies. Our data-driven approach helps you attract traffic and convert leads effectively.",
+    "link": "/service-details"
+  },
+
+  {
+    "title": "Social Media Marketing",
+    "img": "/nex/assets/imgs/serv-icons/5.png",
+    "desc": "Elevate your brand presence through strategic social media campaigns that engage and connect with your audience effectively.",
+    "link": "/service-details"
+  },
+  {
+    "title": "Chat Software",
+    "img": "/nex/assets/imgs/serv-icons/4.png",
+    "desc": "Enhance customer support with customized chat solutions that facilitate real-time communication and improve user satisfaction.",
+    "link": "/service-details"
+  },
+
+  {
+    "title": "Digital Strategy Consulting",
+    "img": "/nex/assets/imgs/serv-icons/4.png",
+    "desc": "Leverage expert insights to navigate the digital landscape. Our consulting services help you formulate strategies for sustainable growth.",
+    "link": "/service-details"
+  }
+]
