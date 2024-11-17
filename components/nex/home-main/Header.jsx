@@ -1,8 +1,10 @@
+'use client'
 import Link from "next/link";
+
 
 function Header() {
   return (
-    <div className="header main-header bg-img" data-overlay-dark="8">
+    <div className="header main-header bg-img main-banner-area " data-overlay-dark="8">
       <div className="container pt-20">
         <div className="row justify-content-start">
           <div className="col-lg-10">
@@ -30,6 +32,24 @@ function Header() {
           </div>
         </div>
       </div>
+
+      <div className="over-shape">
+          <img
+            loading="lazy"
+            src='/nex/assets/imgs/animate/animate1.png'
+            alt=""
+          />
+          <img
+            loading="lazy"
+            src="/nex/assets/imgs/animate/animate2.png"
+            alt=""
+          />
+          <img
+            loading="lazy"
+            src="/nex/assets/imgs/animate/animate3.png"
+            alt=""
+          />
+        </div>
     </div>
   );
 }

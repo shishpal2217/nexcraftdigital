@@ -1,19 +1,10 @@
 "use client";
-import loadBackgroudImages from "@/common/loadBackgroudImages";
 import Link from "next/link";
-import React, { useEffect } from "react";
 
 function Footer() {
-  useEffect(() => {
-    loadBackgroudImages();
-  }, []);
   return (
-    <footer
-      className="clean-footer crev bg-img"
-      data-background="/nex/assets/imgs/header/bg1.jpg"
-      data-overlay-dark="10"
-    >
-      <div className="container pb-40 section-padding ontop">
+    <footer className="clean-footer crev bg-img" data-overlay-dark="10">
+      <div className="pb-10 container section-padding ontop">
         <div className="row">
           <div className="col-lg-3">
             <div className="logo icon-img-100">
@@ -32,7 +23,7 @@ function Footer() {
               </div>
 
               <a href="#0" className="underline">
-                <span className="fz-22 main-color">+2 456 (343) 24 45</span>
+                <span className="fz-22 contact-number">+2 456 (343) 24 45</span>
               </a>
             </div>
           </div>
@@ -102,12 +93,7 @@ function Footer() {
           </div>
           <div className="ml-auto">
             <p className="fz-14">
-              © 2024 InFolio is Proudly Powered by{" "}
-              <span className="underline main-color">
-                <a href="https://themeforest.net/user/UiCamp" target="_blank">
-                  UiCamp
-                </a>
-              </span>
+              Copyright © 2024 Flyweis Technology. All Rights Reserved
             </p>
           </div>
         </div>
