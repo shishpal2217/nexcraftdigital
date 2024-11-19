@@ -232,7 +232,7 @@ figure {
 }
 
 .main-color {
-  color: #14cf93 !important;
+  color: var(--highlight-color) !important;
 }
 
 .main-colorbg {
@@ -2978,7 +2978,6 @@ body.loaded {
 
 .loader-wrap {
   position: fixed;
-  z-index: 10;
   height: 100vh;
   width: 100%;
   left: 0;
@@ -3002,7 +3001,7 @@ body.loaded {
   top: 0;
   width: 100vw;
   height: 110vh;
-  fill: #f5f7f9;
+  fill: var(--primary-color);
 }
 
 .loader-wrap .loader-wrap-heading .load-text {
@@ -3016,6 +3015,7 @@ body.loaded {
 .load-text span {
   -webkit-animation: loading 1s infinite alternate;
   animation: loading 1s infinite alternate;
+  color: #fff;
 }
 
 .load-text span:nth-child(1) {

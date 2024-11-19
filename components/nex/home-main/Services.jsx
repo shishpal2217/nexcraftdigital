@@ -1,13 +1,17 @@
 "use client";
 import React from "react";
 import data from "@/l-data/services.json";
-import { Navigation } from "swiper";
+import { Autoplay, Navigation } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 function Services() {
   const swiperOptions = {
-    modules: [Navigation],
+    modules: [Navigation, Autoplay],
     speed: 600,
+    autoplay: {
+      delay: 2000,
+      disableOnInteraction: true,
+    },
     loop: true,
     slidesPerView: 3,
     spaceBetween: 50,

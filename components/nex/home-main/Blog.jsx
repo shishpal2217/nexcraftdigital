@@ -6,7 +6,7 @@ function Blog() {
     <section className="blog-crev section-padding  radius-30 mt-15">
       <div className="container">
         <div className="sec-head text-center mb-80">
-          <h6 className="sub-title main-color mb-15">Latest News</h6>
+        
           <h2>Look at the articles</h2>
         </div>
         <div className="row">

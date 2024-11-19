@@ -93,7 +93,7 @@ function Footer() {
           </div>
           <div className="ml-auto">
             <p className="fz-14">
-              Copyright © 2024 Flyweis Technology. All Rights Reserved
+              Copyright © 2024 NexCraft Digital. All Rights Reserved
             </p>
           </div>
         </div>
