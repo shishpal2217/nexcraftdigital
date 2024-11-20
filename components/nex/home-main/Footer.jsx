@@ -7,7 +7,7 @@ function Footer() {
       <div className="pb-10 container section-padding ontop">
         <div className="row">
           <div className="col-lg-3">
-            <div className="logo icon-img-100">
+            <div className="logo icon-img-200">
               <Link href="/">
                 <img src="/nex/assets/imgs/logo-light.png" alt="" />
               </Link>

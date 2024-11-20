@@ -3,7 +3,7 @@ import Link from "next/link";
 function Header() {
   return (
     <div
-      className="header main-header bg-img about-us-header-custom"
+      className="header main-header bg-img about-us-header-custom portfolio-hero-section"
       data-overlay-dark="8"
     >
       <div className="container pt-20">

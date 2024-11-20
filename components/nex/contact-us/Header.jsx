@@ -1,11 +1,10 @@
 function Header() {
   return (
     <div
-      className="header page-header bg-img section-padding"
-      data-overlay-dark="9"
-      style={{ backgroundImage: "url(/nex/assets/imgs/header/bg1.jpg)" }}
+      className="header page-header bg-img section-padding portfolio-hero-section"
+      data-overlay-dark="8"
     >
-      <div className="container pt-100">
+      <div className="container">
         <div className="text-center">
           <h4>Get in Touch with Us</h4>
           <div className="mt-15">

@@ -20,7 +20,7 @@ function Navbar() {
     <>
       <nav className="main navbar navbar-expand-lg bord blur">
         <div className="container">
-          <Link className="logo icon-img-100" href="/">
+          <Link className="logo icon-img-200" href="/">
             <img src="/nex/assets/imgs/logo-light.png" alt="logo" />
           </Link>
 

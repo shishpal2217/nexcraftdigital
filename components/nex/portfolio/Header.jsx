@@ -1,18 +1,12 @@
 function Header() {
   return (
     <div
-      className="header page-header bg-img section-padding"
-      data-overlay-dark="9"
-      style={{
-        backgroundImage: "url(/nex/assets/imgs/background/9.jpg",
-        backgroundPosition: "center",
-      }}
+      className="header page-header bg-img section-padding portfolio-hero-section"
+      data-overlay-dark="8"
     >
-      <div className="container pt-100">
+      <div className="container">
         <div className="text-center">
-          {/* <h4>Our Work Speaks for Itself.</h4> */}
-          <h4 style={{ visibility: "hidden" }}> dsd</h4>
-          <h4 style={{ visibility: "hidden" }}> d sd</h4>
+          <h4>Our Work Speaks for Itself.</h4>
         </div>
       </div>
     </div>
