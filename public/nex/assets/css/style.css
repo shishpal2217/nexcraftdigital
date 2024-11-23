@@ -7812,6 +7812,7 @@ a.service-cta {
 }
 
 .services .item-box2 .rmore:hover .arrow {
+  /* background: var(--primary-color); */
   background: #14cf93;
 }
 
@@ -8057,6 +8058,8 @@ a.service-cta {
 .services-details .serv-imgs .img {
   height: 400px;
 }
+
+
 
 /* Sliders
 -----------------------------------------------------------------*/

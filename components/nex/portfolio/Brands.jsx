@@ -150,7 +150,7 @@ function Brands() {
             </div>
             <div className="col-lg-6  order-md-2">
               <div className="row">
-                <div className="col-6 item ontop">
+                <div className="col-6 item ontop" style={{border : 'none'}} >
                   <div className="img">
                     <img src="/nex/assets/imgs/brands/01.png" alt="" />
                   </div>
@@ -274,7 +274,7 @@ function Brands() {
             </div>
             <div className="col-12 order-md-1">
               <div className="row">
-                <div className="col-lg-3 col-6 item empty">
+                {/* <div className="col-lg-3 col-6 item empty">
                   <div className="text">
                     <h2 className="fz-80">
                       6k<span className="fz-30">+</span>
@@ -303,7 +303,7 @@ function Brands() {
                       ></rect>
                     </svg>
                   </span>
-                </div>
+                </div> */}
                 <div className="col-lg-3 col-6 item">
                   <div className="img">
                     <img src="/nex/assets/imgs/brands/03.png" alt="" />
@@ -402,6 +402,55 @@ function Brands() {
                     </svg>
                   </span>
                   <span className="bottom-left">
+                    <svg
+                      viewBox="0 0 23 23"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="w-23 2xl:w-[3.2rem] h-auto"
+                    >
+                      <rect
+                        y="11"
+                        width="23"
+                        height="0.671958"
+                        fill="white"
+                      ></rect>
+                      <rect
+                        x="12"
+                        width="23"
+                        height="0.671957"
+                        transform="rotate(90 12 0)"
+                        fill="white"
+                      ></rect>
+                    </svg>
+                  </span>
+                  <span className="bottom-right">
+                    <svg
+                      viewBox="0 0 23 23"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="w-23 2xl:w-[3.2rem] h-auto"
+                    >
+                      <rect
+                        y="11"
+                        width="23"
+                        height="0.671958"
+                        fill="white"
+                      ></rect>
+                      <rect
+                        x="12"
+                        width="23"
+                        height="0.671957"
+                        transform="rotate(90 12 0)"
+                        fill="white"
+                      ></rect>
+                    </svg>
+                  </span>
+                </div>
+                <div className="col-lg-3 col-6 item">
+                  <div className="img">
+                    <img src="/nex/assets/imgs/brands/05.png" alt="" />
+                  </div>
+                  <span className="top-right">
                     <svg
                       viewBox="0 0 23 23"
                       fill="none"

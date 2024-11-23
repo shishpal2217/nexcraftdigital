@@ -51,17 +51,17 @@ function Blog() {
                   <div className="row">
                     <div className="col-sm-4">
                       <div className="iner-img sm-mb30">
-                        <img src="/nex/assets/imgs/blog/b2.jpg" alt="" />
+                        <img src="/nex/assets/imgs/blog/b/2.jpg" alt="" />
                       </div>
                     </div>
                     <div className="col-sm-4">
                       <div className="iner-img sm-mb30">
-                        <img src="/nex/assets/imgs/blog/b3.jpg" alt="" />
+                        <img src="/nex/assets/imgs/blog/b/3.jpg" alt="" />
                       </div>
                     </div>
                     <div className="col-sm-4">
                       <div className="iner-img">
-                        <img src="/nex/assets/imgs/blog/b2.jpg" alt="" />
+                        <img src="/nex/assets/imgs/blog/b/2.jpg" alt="" />
                       </div>
                     </div>
                   

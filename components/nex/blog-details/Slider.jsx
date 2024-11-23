@@ -28,7 +28,7 @@ function Slider() {
       </div>
       <div
         className="background bg-img mt-80"
-        style={{ backgroundImage: "url(/nex/assets/imgs/blog/b1.jpg)" }}
+        style={{ backgroundImage: "url(/nex/assets/imgs/blog/b/1.jpg)" }}
       ></div>
     </div>
   );

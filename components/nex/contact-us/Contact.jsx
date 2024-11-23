@@ -26,11 +26,9 @@ function Contact() {
                 <a href="#0">
                   <i className="fab fa-facebook-f"></i>
                 </a>
+              
                 <a href="#0">
-                  <i className="fab fa-dribbble"></i>
-                </a>
-                <a href="#0">
-                  <i className="fab fa-behance"></i>
+                  <i className="fab fa-linkedin"></i>
                 </a>
                 <a href="#0">
                   <i className="fab fa-instagram"></i>

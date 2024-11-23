@@ -34,7 +34,7 @@ export default function Services() {
         <div id="smooth-content">
           <Navbar />
           <main className="main-bg o-hidden">
-            <Header />
+            <Header title={"Web Development"} description={"Crafting High-Performance Websites to Elevate Your Online Presence."} />
             <Intro />
             <FAQS />
             <CTA   />
