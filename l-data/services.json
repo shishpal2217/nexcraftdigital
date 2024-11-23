@@ -1,25 +1,25 @@
 [
   {
     "title": "Website Development",
-    "img": "/nex/assets/imgs/serv-icons/4.png",
+    "img": "/nex/assets/imgs/serv-icons/0.png",
     "desc": "Create engaging and responsive websites that enhance user experience and drive conversions. Our custom designs are tailored to reflect your brand identity.",
     "link": "/service-details"
   },
   {
     "title": "App Development",
-    "img": "/nex/assets/imgs/serv-icons/3.png",
+    "img": "/nex/assets/imgs/serv-icons/1.png",
     "desc": "Build intuitive mobile and web applications that captivate users. We develop solutions that are scalable, secure, and aligned with your business goals.",
     "link": "/service-details"
   },
   {
     "title": "Software Development",
-    "img": "/nex/assets/imgs/serv-icons/3.png",
+    "img": "/nex/assets/imgs/serv-icons/2.png",
     "desc": "Design and implement bespoke software solutions that address your unique challenges, enhancing efficiency and driving innovation.",
     "link": "/service-details"
   },
   {
     "title": "CRM Solutions",
-    "img": "/nex/assets/imgs/serv-icons/5.png",
+    "img": "/nex/assets/imgs/serv-icons/3.png",
     "desc": "treamline customer interactions and enhance relationships with tailored CRM software designed for your specific business needs.",
     "link": "/service-details"
   },
@@ -31,7 +31,7 @@
   },
   {
     "title": "Chat Software",
-    "img": "/nex/assets/imgs/serv-icons/4.png",
+    "img": "/nex/assets/imgs/serv-icons/5.png",
     "desc": "Enhance customer support with customized chat solutions that facilitate real-time communication and improve user satisfaction.",
     "link": "/service-details"
   }

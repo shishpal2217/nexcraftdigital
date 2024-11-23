@@ -1,12 +1,17 @@
-'use client';
-import React from 'react';
-import { Swiper, SwiperSlide } from 'swiper/react';
-import data from '@/l-data/testimonials.json';
+"use client";
+import React from "react";
+import { Swiper, SwiperSlide } from "swiper/react";
+import data from "@/l-data/testimonials.json";
+import { Autoplay } from "swiper";
 
 function Testimonials() {
   const swiperOptions = {
     spaceBetween: 30,
     slidesPerView: 2,
+    autoplay: {
+      delay: 2000,
+      disableOnInteraction: true,
+    },
     loop: true,
     breakpoints: {
       800: {
@@ -16,6 +21,7 @@ function Testimonials() {
         slidesPerView: 1,
       },
     },
+    modules: [Autoplay],
   };
   return (
     <section className="testim-crev section-padding sub-bg radius-30 mt-15">
@@ -92,9 +98,6 @@ function Testimonials() {
                       ></path>
                     </svg>
                     <div className="text">
-                      <span className="tag sub-title mb-15">
-                        Design Quality
-                      </span>
                       <p>{item.desc}</p>
                     </div>
                     <div className="info mt-40">
@@ -131,7 +134,7 @@ function Testimonials() {
                       </div>
                       <div className="ml-30">
                         <h6>{item.name}</h6>
-                        <span className="sub-title main-color">
+                        <span className="sub-title">
                           {item.subName}
                         </span>
                       </div>

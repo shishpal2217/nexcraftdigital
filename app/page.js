@@ -7,7 +7,7 @@ import Marquee from "@/components/nex/home-main/Marquee";
 import Testimonials from "@/components/nex/home-main/Testimonials";
 import Script from "next/script";
 import GetInTouch from "@/components/nex/home-main/GetInTouch";
-import Clients from "@/components/nex/home-main/Clients";
+// import Clients from "@/components/nex/home-main/Clients";
 import Blog from "@/components/nex/home-main/Blog";
 import Footer from "@/components/nex/home-main/Footer";
 import LoadingScreen from "@/components/nex/common/loader";
@@ -46,7 +46,7 @@ export default function Home() {
             <Marquee />
             <Testimonials />
             <GetInTouch />
-            <Clients />
+            {/* <Clients /> */}
             <Blog />
           </main>
           <Footer />

@@ -9,7 +9,7 @@ function CTA() {
         <div className="img">
           <img
             id="grow"
-            src="/nex/assets/imgs/background/2.jpg"
+            src="/nex/assets/imgs/background/10.jpg"
             data-speed="0.2"
             data-lag="0"
             alt=""

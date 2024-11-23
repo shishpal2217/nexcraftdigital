@@ -36,22 +36,10 @@ function Marquee() {
                 <span className="fz-50 ml-50 stroke icon">*</span>
               </h4>
             </div>
-            <div className="item">
-              <h4 className="d-flex align-items-center">
-                <span>Social Media Marketing</span>
-                <span className="fz-50 ml-50 stroke icon">*</span>
-              </h4>
-            </div>
+
             <div className="item">
               <h4 className="d-flex align-items-center">
                 <span>Chat Software</span>
-                <span className="fz-50 ml-50 stroke icon">*</span>
-              </h4>
-            </div>
-            <div className="item">
-              <h4 className="d-flex align-items-center">
-                <span>Digital Strategy Consulting</span>
-                
               </h4>
             </div>
           </div>

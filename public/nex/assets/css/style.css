@@ -5841,6 +5841,12 @@ footer.clean-footer.crev:after {
 .services-tab.our-story .serv-tab-cont .item .img img {
   width: 100%;
   max-height: 100%;
+  /* height: 400px;
+  object-fit: cover;
+  object-position: top; */
+}
+.our-story .sub-title{
+  color: var(--secendory-color);
 }
 
 .digital-header {
@@ -5947,9 +5953,10 @@ footer.clean-footer.crev:after {
 
 a.service-cta {
   padding: 7px 25px;
-  background-color: #1a1a1a;
-  border: 1px solid #1a1a1a;
-  color: #fff;
+  border: 1px solid #fff;
+  background-color: #fff;
+  color: var(--secendory-color);
+  font-weight: 600;
   border-radius: 50px;
 }
 
@@ -9111,6 +9118,9 @@ a.service-cta {
   padding: 15px 60px 15px 30px;
   border-radius: 0 0 0 30px;
 }
+.fa-star {
+  color: #ffe31a;
+}
 
 .testim-crev .item .rate-stars .shap-left-top {
   position: absolute;
@@ -9243,6 +9253,9 @@ a.service-cta {
 
 .testimonials-crev {
   position: relative;
+}
+.testim-crev .sub-title {
+  color: var(--secendory-color);
 }
 
 .testimonials-crev:before {

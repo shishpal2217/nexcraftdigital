@@ -6,21 +6,21 @@ function OurStory() {
     <section className="services-tab section-padding  our-story">
       <div className="container">
         <div className="row lg-marg" id="tabs">
-          <div className="col-lg-4 valign">
+          {/* <div className="col-lg-4 valign">
             <div className="serv-tab-cont md-mb80">
               <div className="tab-content current" id="tabs-1">
                 <div className="item">
                   <div className="img">
-                    <img src="/nex/assets/imgs/intro/03.jpg" alt="" />
+                    <img src="/nex/assets/imgs/background/our-vision.jpeg" alt="" />
                   </div>
                 </div>
               </div>
             </div>
-          </div>
-          <div className="col-lg-8 valign" style={{ alignItems: "flex-start" }}>
+          </div> */}
+          <div className="col-lg-10 valign" style={{ alignItems: "flex-start" }}>
             <div className="serv-tab-link tab-links full-width">
               <div className="sec-head mb-30">
-                <h6 className="sub-title mb-15 main-color">Our Story</h6>
+                <h6 className="sub-title mb-15">Our Story</h6>
                 <h2>Turning Ambition into Reality</h2>
               </div>
               <div className="row justify-content-start">

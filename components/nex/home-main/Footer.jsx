@@ -74,11 +74,11 @@ function Footer() {
                   <i className="fab fa-facebook-f"></i>
                 </a>
               </li>
-              <li className="hover-this cursor-pointer ml-30">
+              {/* <li className="hover-this cursor-pointer ml-30">
                 <a href="#0" className="hover-anim">
                   <i className="fab fa-dribbble"></i>
                 </a>
-              </li>
+              </li> */}
               <li className="hover-this cursor-pointer ml-30">
                 <a href="#0" className="hover-anim">
                   <i className="fab fa-linkedin-in"></i>
