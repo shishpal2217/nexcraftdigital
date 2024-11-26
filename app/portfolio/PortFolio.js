@@ -11,6 +11,8 @@ import CTA from "@/components/nex/portfolio/CTA";
 import { useEffect, useState } from "react";
 
 
+
+
 export default function Portfolio() {
     const [isMobile, setIsMobile] = useState(false);
 
